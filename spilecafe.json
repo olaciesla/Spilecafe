@@ -1,0 +1,82 @@
+[
+  {
+    "id": "monopoly",
+    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "name": "MONOPOLY",
+    "players": "2+ players",
+    "time": "60-90 min",
+    "genre": "Family"
+  },
+  {
+    "id": "alias",
+    "image": "https://share.cederdorff.dk/images/race.webp",
+    "name": "ALIAS",
+    "players": "4+ players",
+    "time": "30-60 min",
+    "genre": "Family"
+  },
+  {
+    "id": "akropolis",
+    "image": "https://www.baaa.dk/media/5buh1xeo/anne-kirketerp.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921531600000&format=webp",
+    "name": "AKROPOLIS",
+    "players": "2+ players",
+    "time": "30-60 min",
+    "genre": "Puzz;e game"
+  },
+  {
+    "id": "blokus",
+    "image": "https://www.eaaa.dk/media/14qpfeq4/line-skjodt.jpg?width=800&height=450&rnd=133178433559770000",
+    "name": "BLOKUS",
+    "players": "2+ players",
+    "time": "90+ min",
+    "genre": "Abstract strategy"
+  },
+  {
+    "id": "apocalypse",
+    "image": "https://www.eaaa.dk/media/bdojel41/dan-okkels-brendstrup.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921559630000&format=webp",
+    "name": "APOCALYPSE",
+    "players": "4+ players",
+    "time": "90+ min",
+    "genre": "Strategy"
+  },
+  {
+    "id": "stella",
+    "image": "https://www.eaaa.dk/media/oayjq02h/martin-n%C3%B8hr.jpg?width=800&height=450&v=1da8a5a7a84e370",
+    "name": "STELLA:DIXIT UNIVERSE",
+    "players": "2+ players",
+    "time": "60-90 min",
+    "genre": "Creative"
+  },
+  {
+    "id": "planet",
+    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "name": "PLANET",
+    "players": "3+ players",
+    "time": "30-60 min",
+    "genre": "Environmental Drafting"
+  },
+  {
+    "id": "bang!",
+    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "name": "BANG! THE DICE GAME",
+    "players": "2+ players",
+    "time": "60-90 min",
+    "genre": "Family"
+  },
+  {
+    "id": "catan",
+    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "name": "CATAN",
+    "players": "4+ players",
+    "time": "90+ min",
+    "genre": "Strategy"
+  },
+  {
+    "id": "candymonsters",
+    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "name": "CANDY MONSTERS",
+    "players": "4+ players",
+    "time": "60-90 min",
+    "genre": "Family"
+  }
+]
