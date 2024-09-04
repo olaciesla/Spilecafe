@@ -6,6 +6,8 @@
     "players": "2+ players",
     "time": "60-90 min",
     "genre": "Family"
+    "language": "english",
+    "difficulty": "easy"
   },
   {
     "id": "alias",
@@ -13,7 +15,9 @@
     "name": "ALIAS",
     "players": "4+ players",
     "time": "30-60 min",
-    "genre": "Family"
+    "genre": "Family",
+    "language": "english",
+    "difficulty": "easy"
   },
   {
     "id": "akropolis",
@@ -21,7 +25,9 @@
     "name": "AKROPOLIS",
     "players": "2+ players",
     "time": "30-60 min",
-    "genre": "Puzz;e game"
+    "genre": "Puzzle game",
+    "language": "english",
+    "difficulty": "medium"
   },
   {
     "id": "blokus",
@@ -29,7 +35,9 @@
     "name": "BLOKUS",
     "players": "2+ players",
     "time": "90+ min",
-    "genre": "Abstract strategy"
+    "genre": "Abstract strategy",
+    "language": "danish",
+    "difficulty": "hard"
   },
   {
     "id": "apocalypse",
@@ -37,7 +45,9 @@
     "name": "APOCALYPSE",
     "players": "4+ players",
     "time": "90+ min",
-    "genre": "Strategy"
+    "genre": "Strategy",
+    "language": "english",
+    "difficulty": "easy"
   },
   {
     "id": "stella",
@@ -45,7 +55,9 @@
     "name": "STELLA:DIXIT UNIVERSE",
     "players": "2+ players",
     "time": "60-90 min",
-    "genre": "Creative"
+    "genre": "Creative",
+    "language": "danish",
+    "difficulty": "hard"
   },
   {
     "id": "planet",
@@ -53,7 +65,9 @@
     "name": "PLANET",
     "players": "3+ players",
     "time": "30-60 min",
-    "genre": "Environmental Drafting"
+    "genre": "Environmental Drafting",
+    "language": "danish",
+    "difficulty": "hard"
   },
   {
     "id": "bang!",
@@ -61,7 +75,10 @@
     "name": "BANG! THE DICE GAME",
     "players": "2+ players",
     "time": "60-90 min",
-    "genre": "Family"
+    "genre": "Family",
+    "genre": "Strategy",
+    "language": "english",
+    "difficulty": "easy"
   },
   {
     "id": "catan",
@@ -69,7 +86,10 @@
     "name": "CATAN",
     "players": "4+ players",
     "time": "90+ min",
-    "genre": "Strategy"
+    "genre": "Strategy",
+    "genre": "Strategy",
+    "language": "english",
+    "difficulty": "easy"
   },
   {
     "id": "candymonsters",
@@ -77,6 +97,9 @@
     "name": "CANDY MONSTERS",
     "players": "4+ players",
     "time": "60-90 min",
-    "genre": "Family"
+    "genre": "Family",
+    "genre": "Strategy",
+    "language": "english",
+    "difficulty": "medium"
   }
 ]
