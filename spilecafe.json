@@ -1,7 +1,7 @@
 [
   {
     "id": "monopoly",
-    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "image": "https://childrenandmedia.org.au/assets/images/monopoly.png",
     "name": "MONOPOLY",
     "players": "2+ players",
     "time": "60-90 min",
@@ -9,7 +9,7 @@
   },
   {
     "id": "alias",
-    "image": "https://share.cederdorff.dk/images/race.webp",
+    "image": "https://alias.eu/wp-content/uploads/2020/07/Alias_logo_2020_1.png",
     "name": "ALIAS",
     "players": "4+ players",
     "time": "30-60 min",
@@ -17,7 +17,7 @@
   },
   {
     "id": "akropolis",
-    "image": "https://www.baaa.dk/media/5buh1xeo/anne-kirketerp.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921531600000&format=webp",
+    "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg",
     "name": "AKROPOLIS",
     "players": "2+ players",
     "time": "30-60 min",
@@ -25,7 +25,7 @@
   },
   {
     "id": "blokus",
-    "image": "https://www.eaaa.dk/media/14qpfeq4/line-skjodt.jpg?width=800&height=450&rnd=133178433559770000",
+    "image": "https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__itemrep/img/bAT-4VVj_PaCupAHL5nCjxhBqhM=/fit-in/246x300/filters:strip_icc()/pic2197702.jpg",
     "name": "BLOKUS",
     "players": "2+ players",
     "time": "90+ min",
@@ -33,7 +33,7 @@
   },
   {
     "id": "apocalypse",
-    "image": "https://www.eaaa.dk/media/bdojel41/dan-okkels-brendstrup.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921559630000&format=webp",
+    "image": "https://www.kelz0r.dk/magic/images/bg_conquestplanetearth_apocalypseexp.jpg",
     "name": "APOCALYPSE",
     "players": "4+ players",
     "time": "90+ min",
@@ -41,7 +41,7 @@
   },
   {
     "id": "stella",
-    "image": "https://www.eaaa.dk/media/oayjq02h/martin-n%C3%B8hr.jpg?width=800&height=450&v=1da8a5a7a84e370",
+    "image": "https://cf.geekdo-images.com/j3vn68o2ovUim3zh-JiWIA__itemrep/img/-uvhkm3Ajgbyu42FnhfRVfRD_Kk=/fit-in/246x300/filters:strip_icc()/pic6738101.jpg",
     "name": "STELLA:DIXIT UNIVERSE",
     "players": "2+ players",
     "time": "60-90 min",
@@ -49,7 +49,7 @@
   },
   {
     "id": "planet",
-    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "image": "https://cf.geekdo-images.com/bTE1oeN-8Y-RdSpjR0b-2A__itemrep/img/-19Zsdja7zipOtVgv1nMHYidKxw=/fit-in/246x300/filters:strip_icc()/pic4199323.png",
     "name": "PLANET",
     "players": "3+ players",
     "time": "30-60 min",
@@ -57,7 +57,7 @@
   },
   {
     "id": "bang!",
-    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "image": "https://m.media-amazon.com/images/S/aplus-media/vc/c6d1867f-e0a2-4bd5-8acd-694da1ad4feb.__CR0,0,300,300_PT0_SX300_V1___.jpg",
     "name": "BANG! THE DICE GAME",
     "players": "2+ players",
     "time": "60-90 min",
@@ -65,7 +65,7 @@
   },
   {
     "id": "catan",
-    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "image": "https://www.educationaltoys.pk/wp-content/uploads/2023/02/Catan-Board-Game-1.jpeg",
     "name": "CATAN",
     "players": "4+ players",
     "time": "90+ min",
@@ -73,7 +73,7 @@
   },
   {
     "id": "candymonsters",
-    "image": "https://www.baaa.dk/media/b5ahrlra/maria-louise-bendixen.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921650330000&format=webp",
+    "image": "https://cf.geekdo-images.com/FjCiHuFMOTBAq0UmockKmA__itemrep/img/07XA3ztuT5YoPoRHZKwOUCTKBnQ=/fit-in/246x300/filters:strip_icc()/pic5420654.jpg",
     "name": "CANDY MONSTERS",
     "players": "4+ players",
     "time": "60-90 min",
